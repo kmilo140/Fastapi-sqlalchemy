@@ -28,9 +28,6 @@ Las consultas a realizar son:
 
 + El campo ***duration*** debe convertirse en dos campos: **`duration_int`** y **`duration_type`**. El primero será un integer y el segundo un string indicando la unidad de medición de duración: min (minutos) o season (temporadas)
 
-## Video explicativo 📺
-
-[![Alt text](https://img.youtube.com/vi/jtLWpcPDXrg/0.jpg)](https://youtu.be/jtLWpcPDXrg)
 
 
 ### Principales tecnologías utilizadas 📋
