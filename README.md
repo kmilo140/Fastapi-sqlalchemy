@@ -37,6 +37,7 @@ Las consultas a realizar son:
    - Numpy  
    - seaborn  
    - matplotlib
+   - sqlalchemy
    
   Python es un lenguaje de programación que te permite trabajar rápidamente e integrar sistemas de manera más efectiva.
   https://docs.python.org/3/   
